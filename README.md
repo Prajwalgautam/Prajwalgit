@@ -8,8 +8,8 @@
  Or, when mapping the statements in a script language to method calls on real objects at runtime.
  This concept is often mixed with introspection. The following are their definitions: 
 
-• Introspection is the ability of a program to examine the type or properties of an object at runtime. 
-• Reflection is the ability of a program to examine and modify the structure and behavior of an object at runtime.
+1. Introspection is the ability of a program to examine the type or properties of an object at runtime. 
+2. Reflection is the ability of a program to examine and modify the structure and behavior of an object at runtime.
  From their definitions, introspection is a subset of reflection. Some languages support introspection,
  but do not support reflection, e.g., C++.
 
